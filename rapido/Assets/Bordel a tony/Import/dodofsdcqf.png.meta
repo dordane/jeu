@@ -1,0 +1,1660 @@
+fileFormatVersion: 2
+guid: 48213003aa1dffc4cad933592351140b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2844323134816971631
+    second: dodofsdcqf_0
+  - first:
+      213: 7240192429853417555
+    second: dodofsdcqf_1
+  - first:
+      213: -1419479807689231336
+    second: dodofsdcqf_2
+  - first:
+      213: 4370420344668794961
+    second: dodofsdcqf_3
+  - first:
+      213: -7226483975796223977
+    second: dodofsdcqf_4
+  - first:
+      213: -1812536192668988477
+    second: dodofsdcqf_5
+  - first:
+      213: -7158388428716918963
+    second: dodofsdcqf_6
+  - first:
+      213: 3234938820160379892
+    second: dodofsdcqf_7
+  - first:
+      213: 8820073931307437002
+    second: dodofsdcqf_8
+  - first:
+      213: 4506594952799423333
+    second: dodofsdcqf_9
+  - first:
+      213: -1064518571879781263
+    second: dodofsdcqf_10
+  - first:
+      213: -7095995753657959964
+    second: dodofsdcqf_11
+  - first:
+      213: 3758863311144341448
+    second: dodofsdcqf_12
+  - first:
+      213: 4751192119879397734
+    second: dodofsdcqf_13
+  - first:
+      213: -8088522726889266883
+    second: dodofsdcqf_14
+  - first:
+      213: 2290269064534375098
+    second: dodofsdcqf_15
+  - first:
+      213: -1835557502453426798
+    second: dodofsdcqf_16
+  - first:
+      213: 3162585296471014891
+    second: dodofsdcqf_17
+  - first:
+      213: 7025664702264964778
+    second: dodofsdcqf_18
+  - first:
+      213: 2482415044200296939
+    second: dodofsdcqf_19
+  - first:
+      213: 6076523412671438966
+    second: dodofsdcqf_20
+  - first:
+      213: -7093184670747760401
+    second: dodofsdcqf_21
+  - first:
+      213: -5733189972714162606
+    second: dodofsdcqf_22
+  - first:
+      213: 4372430688412461306
+    second: dodofsdcqf_23
+  - first:
+      213: -2485783954863563168
+    second: dodofsdcqf_24
+  - first:
+      213: -5711997259182823725
+    second: dodofsdcqf_25
+  - first:
+      213: 2042416374981830157
+    second: dodofsdcqf_26
+  - first:
+      213: 5783524655117890167
+    second: dodofsdcqf_27
+  - first:
+      213: -7660294473691626324
+    second: dodofsdcqf_28
+  - first:
+      213: 8867704008885464328
+    second: dodofsdcqf_29
+  - first:
+      213: 503676508974462932
+    second: dodofsdcqf_30
+  - first:
+      213: -100875325191199758
+    second: dodofsdcqf_31
+  - first:
+      213: 5159647698805694956
+    second: dodofsdcqf_32
+  - first:
+      213: -1964416398500756239
+    second: dodofsdcqf_33
+  - first:
+      213: -8271017496305246501
+    second: dodofsdcqf_34
+  - first:
+      213: 6560840857263477339
+    second: dodofsdcqf_35
+  - first:
+      213: -3691951865128991833
+    second: dodofsdcqf_36
+  - first:
+      213: 3110780835402209516
+    second: dodofsdcqf_37
+  - first:
+      213: -2866450818898010152
+    second: dodofsdcqf_38
+  - first:
+      213: -613529737890304043
+    second: dodofsdcqf_39
+  - first:
+      213: 6494616705453752494
+    second: dodofsdcqf_40
+  - first:
+      213: -8062940573340249106
+    second: dodofsdcqf_41
+  - first:
+      213: 486357988400681268
+    second: dodofsdcqf_42
+  - first:
+      213: -4459827222312141884
+    second: dodofsdcqf_43
+  - first:
+      213: 2730290625738789786
+    second: dodofsdcqf_44
+  - first:
+      213: -1331174036987494140
+    second: dodofsdcqf_45
+  - first:
+      213: 232546735962380019
+    second: dodofsdcqf_46
+  - first:
+      213: 6361327340731668181
+    second: dodofsdcqf_47
+  - first:
+      213: -3352017899759540918
+    second: dodofsdcqf_48
+  - first:
+      213: -3596763331959507916
+    second: dodofsdcqf_49
+  - first:
+      213: -1640459868072745280
+    second: dodofsdcqf_50
+  - first:
+      213: 869698102302758644
+    second: dodofsdcqf_51
+  - first:
+      213: 4588640203032777009
+    second: dodofsdcqf_52
+  - first:
+      213: 3880796603505726081
+    second: dodofsdcqf_53
+  - first:
+      213: 875685830987917164
+    second: dodofsdcqf_54
+  - first:
+      213: -9066242059139311723
+    second: dodofsdcqf_55
+  - first:
+      213: -3255964325702693744
+    second: dodofsdcqf_56
+  - first:
+      213: -4378242224412432779
+    second: dodofsdcqf_57
+  - first:
+      213: 479309261372066466
+    second: dodofsdcqf_58
+  - first:
+      213: -6878215407114139109
+    second: dodofsdcqf_59
+  - first:
+      213: 3561186204410157880
+    second: dodofsdcqf_60
+  - first:
+      213: -134502489944340532
+    second: dodofsdcqf_61
+  - first:
+      213: 6316049065037532665
+    second: dodofsdcqf_62
+  - first:
+      213: -444316916920494903
+    second: dodofsdcqf_63
+  - first:
+      213: 8046557757720923542
+    second: dodofsdcqf_64
+  - first:
+      213: -8970406981614463775
+    second: dodofsdcqf_65
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dodofsdcqf_0
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1848
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1941fc2cd2fe688d0800000000000000
+      internalID: -2844323134816971631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dodofsdcqf_1
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1698
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350a2ee97a45a7460800000000000000
+      internalID: 7240192429853417555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dodofsdcqf_2
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1548
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814f7d8b2aefc4ce0800000000000000
+      internalID: -1419479807689231336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dodofsdcqf_3
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1398
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150bf13e52ad6ac30800000000000000
+      internalID: 4370420344668794961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dodofsdcqf_4
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1248
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7101d9f8c1f56bb90800000000000000
+      internalID: -7226483975796223977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dodofsdcqf_5
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1098
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb0d6d9fe398d6e0800000000000000
+      internalID: -1812536192668988477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dodofsdcqf_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1098
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47bf0e96ab48ac90800000000000000
+      internalID: -7158388428716918963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dodofsdcqf_7
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1098
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbd7cda7bfc4ec20800000000000000
+      internalID: 3234938820160379892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dodofsdcqf_8
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1098
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb43408282376a70800000000000000
+      internalID: 8820073931307437002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dodofsdcqf_9
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1098
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b8d2c8b34aa8e30800000000000000
+      internalID: 4506594952799423333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dodofsdcqf_10
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1098
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17cac4abff11a31f0800000000000000
+      internalID: -1064518571879781263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dodofsdcqf_11
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 1098
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9798f4575f58d90800000000000000
+      internalID: -7095995753657959964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dodofsdcqf_12
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1098
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cfc104244a2a2430800000000000000
+      internalID: 3758863311144341448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dodofsdcqf_13
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1098
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661fb056f00afe140800000000000000
+      internalID: 4751192119879397734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dodofsdcqf_14
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1098
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31671a4f6bcfbf80800000000000000
+      internalID: -8088522726889266883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dodofsdcqf_15
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1098
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba33af649ba8cf10800000000000000
+      internalID: 2290269064534375098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dodofsdcqf_16
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1098
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295d57d3d2ac686e0800000000000000
+      internalID: -1835557502453426798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dodofsdcqf_17
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 1098
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed37003292c3eb20800000000000000
+      internalID: 3162585296471014891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dodofsdcqf_18
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 948
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6f089b2dc208160800000000000000
+      internalID: 7025664702264964778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dodofsdcqf_19
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 948
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1f4ae845f437220800000000000000
+      internalID: 2482415044200296939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dodofsdcqf_20
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 948
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67020a959d5245450800000000000000
+      internalID: 6076523412671438966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dodofsdcqf_21
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 948
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe865dd8f12ff8d90800000000000000
+      internalID: -7093184670747760401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dodofsdcqf_22
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 948
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2567a86781e9f60b0800000000000000
+      internalID: -5733189972714162606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dodofsdcqf_23
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 948
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af867d38b8efdac30800000000000000
+      internalID: 4372430688412461306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dodofsdcqf_24
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 948
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06eddfdc9a8b08dd0800000000000000
+      internalID: -2485783954863563168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dodofsdcqf_25
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 948
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6276891c8eab0b0800000000000000
+      internalID: -5711997259182823725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dodofsdcqf_26
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 948
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06ab323fde185c10800000000000000
+      internalID: 2042416374981830157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dodofsdcqf_27
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 948
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772f30a0805334050800000000000000
+      internalID: 5783524655117890167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dodofsdcqf_28
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 798
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca409bc13ca21b590800000000000000
+      internalID: -7660294473691626324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dodofsdcqf_29
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 798
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80decee10d9601b70800000000000000
+      internalID: 8867704008885464328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dodofsdcqf_30
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 798
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7b127cd1b6df600800000000000000
+      internalID: 503676508974462932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dodofsdcqf_31
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 798
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3606b1d6e999ef0800000000000000
+      internalID: -100875325191199758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dodofsdcqf_32
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 798
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1a97dbe30ca9740800000000000000
+      internalID: 5159647698805694956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dodofsdcqf_33
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 798
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4096881bdfcb4e0800000000000000
+      internalID: -1964416398500756239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dodofsdcqf_34
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 798
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde5fa9a861773d80800000000000000
+      internalID: -8271017496305246501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dodofsdcqf_35
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 798
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b521f05bff9cc0b50800000000000000
+      internalID: 6560840857263477339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dodofsdcqf_36
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 798
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a34527e65d83ccc0800000000000000
+      internalID: -3691951865128991833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dodofsdcqf_37
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 798
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8dd3c20b6bb2b20800000000000000
+      internalID: 3110780835402209516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dodofsdcqf_38
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 798
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfd475da225838d0800000000000000
+      internalID: -2866450818898010152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dodofsdcqf_39
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 798
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfe8e934fd4c77f0800000000000000
+      internalID: -613529737890304043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dodofsdcqf_40
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 798
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea083e0db73812a50800000000000000
+      internalID: 6494616705453752494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dodofsdcqf_41
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 648
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee358f0944eaa1090800000000000000
+      internalID: -8062940573340249106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dodofsdcqf_42
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 648
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431db4c7304efb600800000000000000
+      internalID: 486357988400681268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dodofsdcqf_43
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 648
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbb77e35c28b12c0800000000000000
+      internalID: -4459827222312141884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dodofsdcqf_44
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 648
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a935db0cbd0f3e520800000000000000
+      internalID: 2730290625738789786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dodofsdcqf_45
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 648
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40143272448b68de0800000000000000
+      internalID: -1331174036987494140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dodofsdcqf_46
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 648
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6d6b6360c2a3300800000000000000
+      internalID: 232546735962380019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dodofsdcqf_47
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 648
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d69a4c3389f74850800000000000000
+      internalID: 6361327340731668181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dodofsdcqf_48
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 648
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45e41cda7d3b71d0800000000000000
+      internalID: -3352017899759540918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dodofsdcqf_49
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 648
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43437695ecab51ec0800000000000000
+      internalID: -3596763331959507916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dodofsdcqf_50
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 648
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c66d37017aeb39e0800000000000000
+      internalID: -1640459868072745280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dodofsdcqf_51
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 648
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f65691f0d9c11c00800000000000000
+      internalID: 869698102302758644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dodofsdcqf_52
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 648
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13158d7f3ff1eaf30800000000000000
+      internalID: 4588640203032777009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dodofsdcqf_53
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 648
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182508513fb5bd530800000000000000
+      internalID: 3880796603505726081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dodofsdcqf_54
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 498
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67a0eaaf9f072c00800000000000000
+      internalID: 875685830987917164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dodofsdcqf_55
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 498
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5979b49d1ec3e2280800000000000000
+      internalID: -9066242059139311723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dodofsdcqf_56
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 498
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c852552bd70d2d0800000000000000
+      internalID: -3255964325702693744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dodofsdcqf_57
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 498
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576e741d4eb5d33c0800000000000000
+      internalID: -4378242224412432779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dodofsdcqf_58
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 498
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa03a5db39d6a600800000000000000
+      internalID: 479309261372066466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dodofsdcqf_59
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 348
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ac752978bab80a0800000000000000
+      internalID: -6878215407114139109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dodofsdcqf_60
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 348
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b93e42cffdb6130800000000000000
+      internalID: 3561186204410157880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dodofsdcqf_61
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 348
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc74671b2b6222ef0800000000000000
+      internalID: -134502489944340532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dodofsdcqf_62
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 348
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd0089292d17a750800000000000000
+      internalID: 6316049065037532665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dodofsdcqf_63
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 348
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4d14f3e1875d9f0800000000000000
+      internalID: -444316916920494903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
